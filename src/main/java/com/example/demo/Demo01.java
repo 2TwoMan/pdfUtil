@@ -691,6 +691,7 @@ public class Demo01 {
             Image image = Image.getInstance(Base64Utils.decode(" ".getBytes()));
             image.setAlignment(Image.ALIGN_CENTER);
             table.addCell(image);
+            imgCount++;
         }
         return table;
     }
