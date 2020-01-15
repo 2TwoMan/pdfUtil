@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.pdf;
 
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.BaseFont;
